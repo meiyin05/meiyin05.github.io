@@ -12,7 +12,7 @@ description: "记录生活 | 学习笔记"
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:  "https://github.com/meiyin05/meiyin05.github.io/blob/217174ba9d4db0a6f03b25bfe1d3c5333698b172/images/notion-avatar-1700192091761.png"
+avatar:  "https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo0LCJub3NlIjozLCJtb3V0aCI6MSwiZXllcyI6NCwiZXllYnJvd3MiOjExLCJnbGFzc2VzIjoxLCJoYWlyIjoyNSwiYWNjZXNzb3JpZXMiOjAsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6InJnYmEoMjU1LCAwLCAwLCAwKSIsInNoYXBlIjoibm9uZSJ9"
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon:
 
