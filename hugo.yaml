@@ -2,7 +2,9 @@ baseURL: https://example.org/
 languageCode: en-us
 title: Meiyin's Blog
 theme: PaperMod
-paginate: 10
+pagination:
+  pagerSize: 10
+
 
 hasCJKLanguage: true
 enableInlineShortcodes: true
@@ -29,6 +31,9 @@ menu:
       weight: 5
     - name: Search
       url: search/
+      weight: 10
+    - name: Posts
+      url: posts/
       weight: 10
     - name: Tags
       url: tags/
@@ -68,13 +73,9 @@ params:
   TocOpen: true
   comments: true
    
-  homeInfoParams:
-    Title: "Welcome to Meiyin's space"
-    Content: "这是一个纯粹的blog"
-  
   profileMode:
     enabled: true
-    title: Welcome to meiyin's space
+    title: Meiyin's space
     subtitle: 这是一个纯粹的blog
     #imageUrl: "#"
     #imageTitle: my image

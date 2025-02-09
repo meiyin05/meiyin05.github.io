@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/en/tags/blog/</loc>
+    <lastmod>2025-02-09T16:42:28+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/hugo/</loc>
+    <lastmod>2025-02-09T16:42:28+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2025-02-09T16:42:28+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/my-first-article/</loc>
+    <lastmod>2025-02-09T16:42:28+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/</loc>
+    <lastmod>2025-02-09T16:42:28+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2025-02-09T16:42:28+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/about/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,17 +29,8 @@
     <loc>http://localhost:1313/en/tags/data/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/en/tags/reading/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
-    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2025-02-08T20:55:01+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>
