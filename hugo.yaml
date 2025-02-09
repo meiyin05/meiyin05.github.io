@@ -1,0 +1,152 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Meiyin's Blog
+theme: PaperMod
+paginate: 10
+
+hasCJKLanguage: true
+enableInlineShortcodes: true
+enableEmoji: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+pygmentsUseClasses: true
+
+minify:
+  disableXML: true
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+
+permalinks:
+  post: "/:title/"
+
+menu:
+  main:
+    - name: Archive
+      url: archives
+      weight: 5
+    - name: Search
+      url: search/
+      weight: 10
+    - name: Tags
+      url: tags/
+      weight: 15
+    - name: About
+      url: about/
+      weight: 20
+    - name: RSS
+      url: index.xml
+      weight: 25
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  description: "这是一个纯粹的博客......"
+  author: Mei Yin Lau
+  defaultTheme: dark
+  disableThemeToggle: false
+  DateFormat: "2006-01-02"
+  ShowShareButtons: true
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowFullTextinRSS: false
+  hideFooter: false
+  ShowWordCounts: true
+  VisitCount: true
+  ShowLastMod: true
+  ShowToc: true
+  TocOpen: true
+  comments: true
+   
+  homeInfoParams:
+    Title: "Welcome to Meiyin's space"
+    Content: "这是一个纯粹的blog"
+  
+  profileMode:
+    enabled: true
+    title: Welcome to meiyin's space
+    subtitle: 这是一个纯粹的blog
+    #imageUrl: "#"
+    #imageTitle: my image
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+
+  socialIcons:
+    - name: GitHub
+      url: "https://github.com/meiyin05"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/meiyinlau/"
+    - name: Email
+      url: "mailto:laumeiyin1105@gmail.com"
+    - name: Instagram
+      url: "https://www.instagram.com/meiyinlau_/"
+
+  assets:
+    favicon: "img/logo.gif"
+    favicon16x16: "img/logo.gif"
+    favicon32x32: "img/logo.gif"
+    apple_touch_icon: "logo.gif"
+    safari_pinned_tab: "logo.gif"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 1
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary"]
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: darcula
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+  instagram:
+    disabled: false
+    simple: true
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
+
+
+
