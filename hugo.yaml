@@ -69,8 +69,8 @@ params:
   ShowWordCounts: true
   VisitCount: true
   ShowLastMod: true
-  ShowToc: true
-  TocOpen: true
+  ShowToc: false
+  TocOpen: false
   comments: true
    
   profileMode:
@@ -127,6 +127,7 @@ markup:
     guessSyntax: true
     lineNos: true
     style: darcula
+
 
 privacy:
   vimeo:
