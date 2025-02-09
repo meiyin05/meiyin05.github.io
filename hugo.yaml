@@ -77,7 +77,7 @@ params:
     enabled: true
     title: Meiyin's space
     subtitle: 这是一个纯粹的blog
-    #imageUrl: "#"
+    imageUrl: "/images/profilepic.png"
     #imageTitle: my image
     # imageWidth: 120
     # imageHeight: 120
