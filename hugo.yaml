@@ -2,7 +2,6 @@ baseURL: https://example.org/
 languageCode: en-us
 title: Meiyin's Blog
 theme: PaperMod
-enableGitInfo: true
 pagination:
   pagerSize: 10
 
