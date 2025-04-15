@@ -69,8 +69,8 @@ params:
   ShowWordCounts: true
   VisitCount: true
   ShowLastMod: true
-  ShowToc: false
-  TocOpen: false
+  ShowToc: true
+  TocOpen: true
   comments: true
    
   profileMode:

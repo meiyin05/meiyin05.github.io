@@ -23,17 +23,17 @@
       <description></description>
     </item>
     <item>
-      <title>Cloud</title>
-      <link>http://localhost:1313/en/tags/cloud/</link>
-      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/cloud/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Data</title>
       <link>http://localhost:1313/en/tags/data/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/tags/data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/en/tags/finance/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/finance/</guid>
       <description></description>
     </item>
     <item>
