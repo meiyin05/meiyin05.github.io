@@ -24,26 +24,26 @@ defaultContentLanguageInSubdir: true
 permalinks:
   post: "/:title/"
 
-menu:
-  main:
-    - name: Archive
-      url: archives
-      weight: 5
-    - name: Search
-      url: search/
-      weight: 10
-    - name: Posts
-      url: posts/
-      weight: 10
-    - name: Tags
-      url: tags/
-      weight: 15
-    - name: About
-      url: about/
-      weight: 20
-    - name: RSS
-      url: index.xml
-      weight: 25
+# menu:
+#  main:
+ #   - name: Archive
+ #      url: archives
+ #      weight: 5
+ #    - name: Search
+ #      url: search/
+ #      weight: 10
+ #   - name: Posts
+ #     url: posts/
+ #     weight: 10
+ #   - name: Tags
+ #     url: tags/
+ #     weight: 15
+ #   - name: About
+ #     url: about/
+ #     weight: 20
+ #   - name: RSS
+ #     url: index.xml
+ #     weight: 25
 
 outputs:
   home:
