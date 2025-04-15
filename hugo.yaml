@@ -82,10 +82,14 @@ params:
     # imageWidth: 120
     # imageHeight: 120
     buttons:
-      - name: Archives
-        url: archives
-      - name: Tags
-        url: tags
+      - name: 🧱 建站
+        url: posts/blog
+      - name: 👨🏻‍💻 技术
+        url: posts/tech
+      - name: 📕 阅读
+        url: posts/read
+      - name: 🏖 生活
+        url: posts/life
 
   socialIcons:
     - name: GitHub
