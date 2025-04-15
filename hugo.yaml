@@ -87,7 +87,7 @@ params:
       - name: 博客
         url: posts/
       - name: 🏖 生活
-        url: posts/life
+        url: content/Life
 
   socialIcons:
     - name: GitHub
